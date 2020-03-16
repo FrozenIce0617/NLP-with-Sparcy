@@ -1,0 +1,35 @@
+Resume
+Consulting customer lead, Company 1 每 San Jose (CR), Toronto (CA) January 2018 - May 2018
+
+Identified processes automation portfolio totalling 50 FTE for 2019 and long-term potential of 200+ FTE
+Oversaw agile delivery of four opportunities, working with offshore technical teams and business
+Architected reusable framework to integrate into SAP saving significant cost and reducing timelines
+Developed demand generation and assessment approach for Smart Automation CoE
+Programme lead, Company 2 每 Johannesburg (SA) January 2017 - December 2017
+
+Educated and coached more than 100 business participants that delivered 150+ automation solutions leading to significant business benefits and cost savings
+Increased business impact by more than 20% by focusing on outcomes and growing automation opportunities
+Solution lead and architect, Company 3 每 Farnborough (UK), Atyrau (KZ) January 2016 - December 2016
+
+Went through a complex architecture and governance process to establish the automation solution based on UiPath with IT and internal controls
+Mapped and optimised process and delivered the automation solution
+Project and solution lead, Company 4 每 Newcastle (UK), San Jose (CR), Manila (PH) January 2015 - December 2015
+
+Turned project around after initial process assessment did not identify sufficient benefits
+Successfully delivered savings potential of 100 FTE across individual projects with a combination of process improvement and automation
+Delivered an automation ecosystem based on SAP, BluePrism, ServiceNow, Knime and Spotfire and built capability with the customer to dramatically reduce time spent in finance processes
+Solution lead and HR workstream lead, Company 5 每 Coventry (UK) January 2014 - December 2014
+
+Turned project around given a very demanding customer
+Delivered a Proof of Concept (PoC) to demonstrate automation impact on selected processes
+Business case showed an RoI of 100% with an initial 9-month implementation phase
+Project moved into implementation based on the business case
+Solution lead, Company 6 每 Budapest (HU), Manila (PH), Bangalore (IN) January 2013 - December 2013
+
+Defined a scalable architecture for chosen RPA platform
+Delivered savings of more than 60 FTE and moved into second implementation wave
+Project lead, Company 7 每 Budapest (HU) January 2012 - December 2012
+
+Delivered a Proof of Value (PoV) to demonstrate RPA / data automation impact on selected processes
+Business case demonstrated savings of 25-35% and in some areas, up to 75%, supported by PoV
+Project moved into implementation based on the business case
